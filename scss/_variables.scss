@@ -1,0 +1,32 @@
+/* Font */
+$main-font: Arial;
+$heading-font: Tahoma;
+$font-size: 16px;
+$font-color: #333333;
+
+/* Color Schema */
+$main-color: #34193d;
+$secondary-color: #694280;
+$main-color-tinted: mix(white, $main-color, 10%);
+$secondary-color-tinted: mix(white, $secondary-color, 10%);
+
+/* Color Schema Choice
+
+$main-color: #1c1b3a;
+$secondary-color: #000;
+
+$main-color: #7289da;
+$secondary-color: #99aab5;
+
+$main-color: #ae1313;
+$secondary-color: #bd3449;
+
+$main-color: #34193d;
+$secondary-color: #694280;
+
+*/
+
+/* Dimensions */
+$template-width: 80%;
+$showcase-height: 400px;
+$icon-size: 60px;
